@@ -1,7 +1,7 @@
 name:- K.Nikhil Reddy
-id:
+id:CT08PD949
 DOMAIN: Web Development
-duration:
+duration: 4 WEEKS
 mentor:sravani gouni
 description:
 A to-do list is an essential organizational tool used to manage tasks efficiently. It helps individuals keep track of their responsibilities by listing out all tasks that need to be completed, typically in order of priority or deadline. The primary function of a to-do list is to improve productivity by providing a clear visual outline of tasks, ensuring nothing is forgotten and helping to break down larger projects into manageable steps.
